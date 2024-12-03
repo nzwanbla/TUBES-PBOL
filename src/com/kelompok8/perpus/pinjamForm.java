@@ -65,7 +65,7 @@ public class pinjamForm extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(209, 68, 112));
+        jPanel1.setBackground(new java.awt.Color(102, 153, 255));
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
@@ -84,7 +84,7 @@ public class pinjamForm extends javax.swing.JFrame {
         jLabel6.setText("NIP");
         jLabel6.setToolTipText("");
 
-        cekData.setBackground(new java.awt.Color(255, 153, 153));
+        cekData.setBackground(new java.awt.Color(153, 204, 255));
         cekData.setForeground(new java.awt.Color(255, 255, 255));
         cekData.setText("Cek Data");
         cekData.setBorderPainted(false);
@@ -108,7 +108,7 @@ public class pinjamForm extends javax.swing.JFrame {
 
         jPanel2.setLayout(new java.awt.CardLayout());
 
-        tambahPinjam.setBackground(new java.awt.Color(255, 153, 153));
+        tambahPinjam.setBackground(new java.awt.Color(153, 204, 255));
         tambahPinjam.setForeground(new java.awt.Color(255, 255, 255));
         tambahPinjam.setText("Tambah Data");
         tambahPinjam.setBorderPainted(false);

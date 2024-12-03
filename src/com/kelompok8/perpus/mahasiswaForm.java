@@ -67,7 +67,7 @@ public class mahasiswaForm extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(209, 68, 112));
+        jPanel1.setBackground(new java.awt.Color(102, 153, 255));
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
@@ -87,7 +87,7 @@ public class mahasiswaForm extends javax.swing.JFrame {
 
         jPanel2.setLayout(new java.awt.CardLayout());
 
-        tambahMahasiswa.setBackground(new java.awt.Color(255, 153, 153));
+        tambahMahasiswa.setBackground(new java.awt.Color(153, 204, 255));
         tambahMahasiswa.setForeground(new java.awt.Color(255, 255, 255));
         tambahMahasiswa.setText("Tambah Data");
         tambahMahasiswa.setBorderPainted(false);

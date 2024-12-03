@@ -54,10 +54,10 @@ public class login extends javax.swing.JFrame {
         setResizable(false);
         setSize(new java.awt.Dimension(400, 300));
 
-        jPanel1.setBackground(new java.awt.Color(209, 68, 112));
+        jPanel1.setBackground(new java.awt.Color(102, 153, 255));
         jPanel1.setPreferredSize(new java.awt.Dimension(400, 300));
 
-        btn_login.setBackground(new java.awt.Color(255, 153, 153));
+        btn_login.setBackground(new java.awt.Color(153, 204, 255));
         btn_login.setForeground(new java.awt.Color(255, 255, 255));
         btn_login.setText("Login");
         btn_login.setBorderPainted(false);

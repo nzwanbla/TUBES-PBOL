@@ -91,9 +91,9 @@ public class mainMenu extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
 
-        heading.setBackground(new java.awt.Color(209, 68, 112));
+        heading.setBackground(new java.awt.Color(102, 153, 255));
 
-        btn_pinjam.setBackground(new java.awt.Color(255, 153, 153));
+        btn_pinjam.setBackground(new java.awt.Color(153, 204, 255));
         btn_pinjam.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         btn_pinjam.setForeground(new java.awt.Color(255, 255, 255));
         btn_pinjam.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -106,7 +106,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_buku.setBackground(new java.awt.Color(209, 68, 112));
+        btn_buku.setBackground(new java.awt.Color(102, 153, 255));
         btn_buku.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         btn_buku.setForeground(new java.awt.Color(255, 255, 255));
         btn_buku.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -119,7 +119,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_mahasiswa.setBackground(new java.awt.Color(209, 68, 112));
+        btn_mahasiswa.setBackground(new java.awt.Color(102, 153, 255));
         btn_mahasiswa.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         btn_mahasiswa.setForeground(new java.awt.Color(255, 255, 255));
         btn_mahasiswa.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -132,7 +132,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_pegawai.setBackground(new java.awt.Color(209, 68, 112));
+        btn_pegawai.setBackground(new java.awt.Color(102, 153, 255));
         btn_pegawai.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         btn_pegawai.setForeground(new java.awt.Color(255, 255, 255));
         btn_pegawai.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -145,7 +145,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_archive.setBackground(new java.awt.Color(209, 68, 112));
+        btn_archive.setBackground(new java.awt.Color(102, 153, 255));
         btn_archive.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         btn_archive.setForeground(new java.awt.Color(255, 255, 255));
         btn_archive.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -165,9 +165,9 @@ public class mainMenu extends javax.swing.JFrame {
 
         search.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 3, 1, 3));
 
-        btn_search.setBackground(new java.awt.Color(255, 153, 153));
+        btn_search.setBackground(new java.awt.Color(153, 204, 255));
         btn_search.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
-        btn_search.setForeground(new java.awt.Color(255, 153, 153));
+        btn_search.setForeground(new java.awt.Color(153, 204, 255));
         btn_search.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/search.png"))); // NOI18N
         btn_search.setBorderPainted(false);
         btn_search.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -200,7 +200,7 @@ public class mainMenu extends javax.swing.JFrame {
                 .addComponent(btn_search, javax.swing.GroupLayout.PREFERRED_SIZE, 29, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jButton1.setBackground(new java.awt.Color(255, 153, 153));
+        jButton1.setBackground(new java.awt.Color(153, 204, 255));
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Logout");
         jButton1.setBorderPainted(false);
@@ -269,9 +269,9 @@ public class mainMenu extends javax.swing.JFrame {
                     .addComponent(searchPanel, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
         );
 
-        jPanel2.setBackground(new java.awt.Color(255, 174, 160));
+        jPanel2.setBackground(new java.awt.Color(153, 204, 255));
 
-        btn_delete.setBackground(new java.awt.Color(209, 68, 112));
+        btn_delete.setBackground(new java.awt.Color(102, 153, 255));
         btn_delete.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
         btn_delete.setForeground(new java.awt.Color(255, 255, 255));
         btn_delete.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/delete.png"))); // NOI18N
@@ -293,7 +293,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_add.setBackground(new java.awt.Color(209, 68, 112));
+        btn_add.setBackground(new java.awt.Color(102, 153, 255));
         btn_add.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
         btn_add.setForeground(new java.awt.Color(255, 255, 255));
         btn_add.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/add.png"))); // NOI18N
@@ -315,7 +315,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_refresh.setBackground(new java.awt.Color(209, 68, 112));
+        btn_refresh.setBackground(new java.awt.Color(102, 153, 255));
         btn_refresh.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
         btn_refresh.setForeground(new java.awt.Color(255, 255, 255));
         btn_refresh.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/refresh.png"))); // NOI18N
@@ -337,7 +337,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_edit.setBackground(new java.awt.Color(209, 68, 112));
+        btn_edit.setBackground(new java.awt.Color(102, 153, 255));
         btn_edit.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
         btn_edit.setForeground(new java.awt.Color(255, 255, 255));
         btn_edit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/edit.png"))); // NOI18N
@@ -359,7 +359,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        btn_done.setBackground(new java.awt.Color(209, 68, 112));
+        btn_done.setBackground(new java.awt.Color(102, 153, 255));
         btn_done.setFont(new java.awt.Font("Segoe UI", 0, 11)); // NOI18N
         btn_done.setForeground(new java.awt.Color(255, 255, 255));
         btn_done.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/selesai.png"))); // NOI18N
@@ -381,7 +381,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         });
 
-        jPanel3.setBackground(new java.awt.Color(255, 174, 160));
+        jPanel3.setBackground(new java.awt.Color(153, 204, 255));
 
         jPanel1.setLayout(new java.awt.CardLayout());
 
@@ -401,7 +401,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         ));
         tb_pinjam.setGridColor(new java.awt.Color(240, 240, 240));
-        tb_pinjam.setSelectionBackground(new java.awt.Color(255, 153, 153));
+        tb_pinjam.setSelectionBackground(new java.awt.Color(102,153,255));
         jScrollPane1.setViewportView(tb_pinjam);
 
         pinjam.add(jScrollPane1);
@@ -423,7 +423,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         ));
         tb_buku.setGridColor(new java.awt.Color(240, 240, 240));
-        tb_buku.setSelectionBackground(new java.awt.Color(255, 153, 153));
+        tb_buku.setSelectionBackground(new java.awt.Color(102,153,255));
         jScrollPane2.setViewportView(tb_buku);
 
         buku.add(jScrollPane2);
@@ -446,7 +446,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         ));
         tb_pegawai.setGridColor(new java.awt.Color(240, 240, 240));
-        tb_pegawai.setSelectionBackground(new java.awt.Color(255, 153, 153));
+        tb_pegawai.setSelectionBackground(new java.awt.Color(102,153,255));
         jScrollPane3.setViewportView(tb_pegawai);
 
         pegawai.add(jScrollPane3);
@@ -469,7 +469,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         ));
         tb_mahasiswa.setGridColor(new java.awt.Color(240, 240, 240));
-        tb_mahasiswa.setSelectionBackground(new java.awt.Color(255, 153, 153));
+        tb_mahasiswa.setSelectionBackground(new java.awt.Color(102,153,255));
         jScrollPane4.setViewportView(tb_mahasiswa);
 
         mahasiswa.add(jScrollPane4);
@@ -522,7 +522,7 @@ public class mainMenu extends javax.swing.JFrame {
                         .addComponent(jLabel6)
                         .addGap(18, 18, 18)
                         .addComponent(jLabel8)))
-                .addContainerGap(517, Short.MAX_VALUE))
+                .addContainerGap(527, Short.MAX_VALUE))
         );
         creditsLayout.setVerticalGroup(
             creditsLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -558,7 +558,7 @@ public class mainMenu extends javax.swing.JFrame {
             }
         ));
         tb_arsip.setGridColor(new java.awt.Color(240, 240, 240));
-        tb_arsip.setSelectionBackground(new java.awt.Color(255, 153, 153));
+        tb_arsip.setSelectionBackground(new java.awt.Color(153,204,255));
         jScrollPane5.setViewportView(tb_arsip);
 
         arsip.add(jScrollPane5);
@@ -908,13 +908,13 @@ public class mainMenu extends javax.swing.JFrame {
     }//GEN-LAST:event_btn_searchActionPerformed
 
     private void btn_searchMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btn_searchMouseEntered
-        btn_search.setBackground(new java.awt.Color(255,153,153));
-        btn_search.setForeground(new java.awt.Color(209,68,112));
+        btn_search.setBackground(new java.awt.Color(242,242,242));
+        btn_search.setForeground(new java.awt.Color(153,204,255));
     }//GEN-LAST:event_btn_searchMouseEntered
 
     private void btn_searchMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btn_searchMouseExited
-        btn_search.setBackground(new java.awt.Color(255,153,153));
-        btn_search.setForeground(new java.awt.Color(209,68,112));
+        btn_search.setBackground(new java.awt.Color(242,242,242));
+        btn_search.setForeground(new java.awt.Color(153,204,255));
     }//GEN-LAST:event_btn_searchMouseExited
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -1257,20 +1257,20 @@ public class mainMenu extends javax.swing.JFrame {
 
 //----------SET BUTTON COLOR----------------
     public void hovercolor(javax.swing.JButton btn) {
-        btn.setBackground(new java.awt.Color(255,153,153));
+        btn.setBackground(new java.awt.Color(153,204,255));
     }
 
     public void defaultcolor(javax.swing.JButton btn) {
-        btn.setBackground(new java.awt.Color(209,68,112));
+        btn.setBackground(new java.awt.Color(242,242,242));
     }
 
 //----------SET LABEL COLOR-----------------
     public void newcolor(javax.swing.JLabel lbl) {
-        lbl.setBackground(new java.awt.Color(255,153,153));
+        lbl.setBackground(new java.awt.Color(153,204,255));
     }
 
     public void resetcolor(javax.swing.JLabel lbl) {
-        lbl.setBackground(new java.awt.Color(209,68,112));
+        lbl.setBackground(new java.awt.Color(242,242,242));
     }
 
     public String ambiluser;
